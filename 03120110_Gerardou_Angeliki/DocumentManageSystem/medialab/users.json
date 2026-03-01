@@ -1,0 +1,89 @@
+[
+  {
+    "type": "SIMPLE",
+    "username": "user1",
+    "password": "1234",
+    "firstName": "Bob",
+    "lastName": "Sponge",
+    "allowedCategories": [
+      "literature",
+      "math",
+      "mythology"
+    ],
+    "subscriptions": [
+    ]
+  },
+  {
+    "type": "AUTHOR",
+    "username": "author1",
+    "password": "1234",
+    "firstName": "Alice",
+    "lastName": "Writer",
+    "allowedCategories": [
+      "tech",
+      "literature",
+      "science",
+      "ai",
+      "latin",
+      "math",
+      "mythology"
+    ],
+    "subscriptions": [
+    ]
+  },
+  {
+    "type": "ADMIN",
+    "username": "medialab",
+    "password": "medialab_2025",
+    "firstName": "Default",
+    "lastName": "Admin",
+    "allowedCategories": [
+      "tech",
+      "literature",
+      "science",
+      "physics",
+      "ai",
+      "math",
+      "latin",
+      "mythology"
+    ],
+    "subscriptions": [
+      {
+        "documentId": "doc1",
+        "lastSeenVersion": 3
+      },
+      {
+        "documentId": "doc3",
+        "lastSeenVersion": 2
+      },
+      {
+        "documentId": "doc2",
+        "lastSeenVersion": 2
+      },
+      {
+        "documentId": "ai1",
+        "lastSeenVersion": 2
+      }
+    ]
+  },
+  {
+    "type": "AUTHOR",
+    "username": "angie",
+    "password": "1234",
+    "firstName": "Angeliki",
+    "lastName": "Gerardou",
+    "allowedCategories": [
+      "tech",
+      "literature",
+      "ai",
+      "latin",
+      "math"
+    ],
+    "subscriptions": [
+      {
+        "documentId": "angieDoc1",
+        "lastSeenVersion": 1
+      }
+    ]
+  }
+]

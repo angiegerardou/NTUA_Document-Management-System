@@ -1,0 +1,17 @@
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\Admin.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\Author.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\Category.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\Document.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\DocumentVersion.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\SimpleUser.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\domain\Subscription.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\managers\AdminManager.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\managers\AuthManager.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\managers\DocumentManager.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\managers\SubscriptionManager.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\storage\AppState.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\storage\JsonFileManager.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\ui\App.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\ui\AppContext.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\ui\LoginView.java
+C:\Users\Aggeliki\OneDrive\Desktop\DocumentManageSystem\src\main\java\documentsystem\ui\MainView.java

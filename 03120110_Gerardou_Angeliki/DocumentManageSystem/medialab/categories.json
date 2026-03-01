@@ -1,0 +1,25 @@
+[ {
+  "id" : "tech",
+  "name" : "Technology"
+}, {
+  "id" : "literature",
+  "name" : "english literature"
+}, {
+  "id" : "science",
+  "name" : "Science"
+}, {
+  "id" : "physics",
+  "name" : "Physics"
+}, {
+  "id" : "ai",
+  "name" : "Artificial Intelligence"
+}, {
+  "id" : "math",
+  "name" : "Mathematics"
+}, {
+  "id" : "latin",
+  "name" : "Latin documents"
+}, {
+  "id" : "mythology",
+  "name" : "greek mythology"
+} ]

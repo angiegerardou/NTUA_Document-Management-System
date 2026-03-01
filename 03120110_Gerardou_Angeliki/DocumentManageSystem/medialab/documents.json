@@ -1,0 +1,76 @@
+[ {
+  "id" : "angieDoc1",
+  "title" : "My First Document",
+  "authorUsername" : "angie",
+  "categoryId" : "ai",
+  "createdAt" : "2026-03-01",
+  "versions" : [ {
+    "versionNumber" : 1,
+    "content" : "Hi, my name is Angie and this is the first document that i write through this app!\nI am very excited, cause i just made a new paragraph!\nThis is one more!"
+  } ]
+}, {
+  "id" : "doc3",
+  "title" : "Basic Literature",
+  "authorUsername" : "author1",
+  "categoryId" : "literature",
+  "createdAt" : "2026-02-26",
+  "versions" : [ {
+    "versionNumber" : 1,
+    "content" : "Literature is the study of written language."
+  }, {
+    "versionNumber" : 2,
+    "content" : "Literature is the study of written language. this is a new version to test popup notifications"
+  } ]
+}, {
+  "id" : "math1",
+  "title" : "Algebra Rules",
+  "authorUsername" : "medialab",
+  "categoryId" : "math",
+  "createdAt" : "2026-02-28",
+  "versions" : [ {
+    "versionNumber" : 1,
+    "content" : "Algebra is very importart for people to know!"
+  } ]
+}, {
+  "id" : "doc2",
+  "title" : "Basic Science",
+  "authorUsername" : "author1",
+  "categoryId" : "science",
+  "createdAt" : "2026-02-25",
+  "versions" : [ {
+    "versionNumber" : 1,
+    "content" : "Science studies the natural world."
+  }, {
+    "versionNumber" : 2,
+    "content" : "Science studies the natural world. I made a change through UI!"
+  } ]
+}, {
+  "id" : "doc1",
+  "title" : "Basic Technology",
+  "authorUsername" : "author1",
+  "categoryId" : "tech",
+  "createdAt" : "2026-02-25",
+  "versions" : [ {
+    "versionNumber" : 1,
+    "content" : "Technology is the study of the structure and function of machines."
+  }, {
+    "versionNumber" : 2,
+    "content" : "Technology is very helpful for mankind!"
+  }, {
+    "versionNumber" : 3,
+    "content" : "Technology is the study of the structure and function of machines. It is a very important field!"
+  } ]
+}, {
+  "id" : "ai1",
+  "title" : "Part Prototype Networks",
+  "authorUsername" : "medialab",
+  "categoryId" : "ai",
+  "createdAt" : "2026-02-28",
+  "versions" : [ {
+    "versionNumber" : 1,
+    "content" : "ProtoTree is an interpretable model that combines a CNN with a prototype-based decision tree. Each node uses a learned prototype to route images based on visual similarity enabling clear step-by-step explanations. Despite its simplicity it achieves competitive accuracy with far fewer prototypes than ProtoPNet."
+  }, {
+    "versionNumber" : 2,
+    "content" : "ProtoTree is an interpretable model that combines a CNN with a prototype-based decision tree. Each node uses a learned prototype to route images based on visual similarity enabling clear step-by-step explanations. Despite its simplicity it achieves competitive accuracy with far fewer prototypes than ProtoPNet.\nProtoTree-MIL is an interpretable MIL framework for WSI classification that combines prototypes and decision tree. The fundamental distinction between ProtoTree-MIL and the original ProtoTree lies in their pooling strategy for handling large-scale inputs: while the vanilla ProtoTree employs a min-pooling operation to select only the single patch closest to a prototype, WSI—ProtoTree-MIL introduces an efficient attention-based pooling mechanism. \n"
+  } ]
+} ]
